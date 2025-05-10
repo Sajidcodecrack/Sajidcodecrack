@@ -37,7 +37,7 @@
 - 🧠 **Deep Learning** – Computer Vision, NLP, and Multimodal models  
 - 🤖 **Retrieval Augmented Generation (RAG)** – Powered by **LangChain** & **VectorDBs**  
 - 🌐 **React Native & MERN Stack** – Building responsive cross-platform web and mobile apps  
-- 🔬 Focused on **health-tech**, **sustainability**, and **accessibility** initiatives  
+- 🔬 Focused on **sustainability**, and **accessibility** initiatives  
 
 🛠️ Currently developing **HealthyEats 2.0** – an AI-powered app for budget-based meal, fitness, and medical recommendations.  
 📨 Reach me at: **sajidahamedkhulna2000@gmail.com**
