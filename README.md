@@ -32,7 +32,7 @@
 
 ###  About Me
 
-🎓 **Final Year Engineering Student** passionate about transforming ideas into impactful AI solutions.  
+🎓 **A graduate Computer Science & Engineering Student** passionate about transforming ideas into impactful AI solutions.  
  I specialize in cutting-edge projects involving:  
 -  **Deep Learning** – Computer Vision, NLP, and Multimodal models  
 -  **Retrieval Augmented Generation (RAG)** – Powered by **LangChain** & **VectorDBs**  
